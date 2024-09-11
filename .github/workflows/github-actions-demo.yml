@@ -8,5 +8,5 @@ on:
       - .github/**
   schedule:
     - cron: '15 6 * * 0'
-  worworkflow_dispatch:
+  workflow_dispatch:
     
